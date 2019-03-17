@@ -1,0 +1,2 @@
+# NYVideoKitSpec
+NYVideoKitSpec for NYVideoKit
