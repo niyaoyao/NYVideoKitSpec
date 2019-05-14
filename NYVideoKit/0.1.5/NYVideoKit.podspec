@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'NYVideoKit'
   s.version          = '0.1.5'
-  s.summary          = 'A short description of NYVideoKit.'
+  s.summary          = 'NYVideoKit is a lightweight video synthesis library. NYVideoKit captures and records audio and video and saves it to a local sandbox.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  NYVideoKit is a lightweight video synthesis library. NYVideoKit captures and records audio and video and saves it to a local sandbox. NYVideoKit also allows you to stitch, cut, add filters, add images, and more.
                        DESC
 
   s.homepage         = 'https://github.com/niyaoyao/NYVideoKit'
